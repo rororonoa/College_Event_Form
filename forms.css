@@ -1,0 +1,76 @@
+body{
+    background-image: url(FestImg/image1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+    .ico{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h3{
+      text-align: center;
+    }
+    h4{
+      text-align: center;
+      font-family: cursive;
+    }
+    h5{
+      text-align: center;
+      font-family: cursive;
+      font-size: 18px;
+    }
+    h6{
+      text-align: center;
+      font-size: 15px;
+      font-weight: bold;
+    }
+    p{
+      text-align: center;
+      font-size: 17px;
+      font-weight: bold;
+    }
+    h1{
+        font-family: cursive;
+        font-size: 30px;
+        padding: 14px;   
+        text-align: center;
+    }
+    .form-container{
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: cursive;
+    }   
+    label{
+        display: inline-flex;
+        width: 220px;
+    }
+    .rad{
+        margin-left: 227px;
+    }
+    .FR{
+        margin-left: 227px;
+    }
+    .PR{
+        margin-left: 227px;
+    }
+    textarea{
+      margin-left: 220px;
+    }
+    ul{
+      margin-left: 110px;
+    }
+    button{
+      margin-left: 270px;
+      color: darkblue;
+      font-weight: bold;
+      cursor: pointer;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    video{
+      margin-left: 115px;
+      width: 62%;
+    }
